@@ -1,0 +1,7 @@
+facility_type,region,total_encounters,unique_providers,unique_specialty,avg_years,max_experience,min_experience
+Hospital,South,509,324,12,19.3811394891945,39,1
+Specialty Center,South,1026,424,12,19.742690058479532,39,1
+Specialty Center,West,946,427,12,19.73784355179704,39,1
+Urgent Care,North,510,328,12,20.16078431372549,39,1
+Urgent Care,South,970,430,12,19.88144329896907,39,1
+Urgent Care,West,1039,444,12,20.476419634263713,39,1
